@@ -1,6 +1,8 @@
 # Awesome Data Ops [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of data operations resources, focused for Cultural Heritage Organizations usage.
+>
+> **Data Operations (as defined here):** An approach to designing, implementing & maintaining a distributed data architecture to support an increasingly wide range of data types, models, workflows, needs, applications, services across systems, architectures, and components. For cultural heritage dataOps, we want to get at the intersection of fully utilizing expertise(s) of both (meta)data teams & development teams via realizing the capabilities of data specifications, workflows, and tooling.
 
 
 ## Contents
