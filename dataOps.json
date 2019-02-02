@@ -1,0 +1,120 @@
+[
+  {
+    "name": "cauldron",
+    "author": "sernst",
+    "description": "The Unnotebook: A Production-Ready Data Environment Built for DataOps Workflows",
+    "stars": 63,
+    "topics": [
+      "data-engineering",
+      "data-science",
+      "dataops",
+      "notebook",
+      "notebooks",
+      "python-3"
+    ]
+  },
+  {
+    "name": "kafka-connect-protobuf-converter",
+    "author": "blueapron",
+    "description": "Protobuf converter plugin for Kafka Connect",
+    "stars": 36,
+    "topics": [
+      "data",
+      "dataops",
+      "jar",
+      "kafka",
+      "kafka-connect",
+      "protobuf-converter",
+      "protocol-buffers"
+    ]
+  },
+  {
+    "name": "eesectors",
+    "author": "DCMSstats",
+    "description": "⚠️ Prototype R package for the creation of the DCMS Sectors Economic Estimates statistical release",
+    "stars": 26,
+    "topics": [
+      "dataops",
+      "government",
+      "reproducible",
+      "statistics"
+    ]
+  },
+  {
+    "name": "DataOps",
+    "author": "OpenDataCT",
+    "description": "DataOps for Government",
+    "stars": 11,
+    "topics": [
+      "analytics",
+      "data-quality",
+      "dataops",
+      "dataops-principles",
+      "government"
+    ]
+  },
+  {
+    "name": "scalable-data-science",
+    "author": "axsauze",
+    "description": "Scalable Data Science: The state of DataOps / MLOps in 2018",
+    "stars": 4,
+    "topics": [
+      "data",
+      "dataops",
+      "learning",
+      "machine",
+      "ml",
+      "mlops",
+      "scalable",
+      "science"
+    ]
+  },
+  {
+    "name": "lenses-cloud-templates",
+    "author": "Landoop",
+    "description": "Available templates to deploy Lenses in different cloud providers",
+    "stars": 3,
+    "topics": [
+      "apache-kafka",
+      "arm-templates",
+      "aws",
+      "azure",
+      "cloud",
+      "cloudformation",
+      "dataops"
+    ]
+  },
+  {
+    "name": "kf-lambda-quality-reports",
+    "author": "kids-first",
+    "description": "📊 Data quality reports",
+    "stars": 1,
+    "topics": [
+      "data",
+      "dataops",
+      "lambda",
+      "reporting"
+    ]
+  },
+  {
+    "name": "dataops",
+    "author": "stephlocke",
+    "description": "A site showcasing DataOps resources!",
+    "stars": 0,
+    "topics": [
+      "dataops",
+      "hugo"
+    ]
+  },
+  {
+    "name": "regregrap",
+    "author": "mammykins",
+    "description": "Register of registers reproducible analytical pipeline report.",
+    "stars": 0,
+    "topics": [
+      "dataops",
+      "devops",
+      "r"
+    ]
+  }
+]
